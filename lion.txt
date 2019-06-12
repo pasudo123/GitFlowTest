@@ -1,0 +1,8 @@
+
+(1) lion
+
+(2) cat
+
+(3) monkey
+
+(4) dog
